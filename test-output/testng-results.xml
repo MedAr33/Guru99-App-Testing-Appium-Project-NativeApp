@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="9" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="217577" started-at="2020-04-06T13:10:49 CEST" finished-at="2020-04-06T13:14:27 CEST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="217577" started-at="2020-04-06T13:10:49 CEST" finished-at="2020-04-06T13:14:27 CEST">
+      <class name="TestCases.TestCase3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestCases.TestCase3@4e268090]" name="beforeClass" is-config="true" duration-ms="26205" started-at="2020-04-06T13:12:32 CEST" finished-at="2020-04-06T13:12:58 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:TestCases.TestCase3@4e268090]" name="tc3" duration-ms="11650" started-at="2020-04-06T13:12:58 CEST" finished-at="2020-04-06T13:13:10 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestCases.TestCase3@4e268090]" name="afterClass" is-config="true" duration-ms="52" started-at="2020-04-06T13:13:10 CEST" finished-at="2020-04-06T13:13:10 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestCases.TestCase3 -->
+      <class name="TestCases.TestCase4">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestCases.TestCase4@1bb266b3]" name="beforeClass" is-config="true" duration-ms="25156" started-at="2020-04-06T13:13:10 CEST" finished-at="2020-04-06T13:13:35 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:TestCases.TestCase4@1bb266b3]" name="tc4" duration-ms="11026" started-at="2020-04-06T13:13:35 CEST" finished-at="2020-04-06T13:13:46 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestCases.TestCase4@1bb266b3]" name="afterClass" is-config="true" duration-ms="52" started-at="2020-04-06T13:13:46 CEST" finished-at="2020-04-06T13:13:46 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestCases.TestCase4 -->
+      <class name="TestCases.TestCase5">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestCases.TestCase5@306cf3ea]" name="beforeClass" is-config="true" duration-ms="25551" started-at="2020-04-06T13:13:46 CEST" finished-at="2020-04-06T13:14:12 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="tc5()[pri:0, instance:TestCases.TestCase5@306cf3ea]" name="tc5" duration-ms="14861" started-at="2020-04-06T13:14:12 CEST" finished-at="2020-04-06T13:14:27 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestCases.TestCase5@306cf3ea]" name="afterClass" is-config="true" duration-ms="51" started-at="2020-04-06T13:14:27 CEST" finished-at="2020-04-06T13:14:27 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestCases.TestCase5 -->
+      <class name="TestCases.TestCase1">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:TestCases.TestCase1@776b83cc]" name="killAllNodes" is-config="true" duration-ms="3023" started-at="2020-04-06T13:10:49 CEST" finished-at="2020-04-06T13:10:52 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestCases.TestCase1@776b83cc]" name="beforeClass" is-config="true" duration-ms="53505" started-at="2020-04-06T13:10:52 CEST" finished-at="2020-04-06T13:11:46 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:TestCases.TestCase1@776b83cc]" name="tc1" duration-ms="9794" started-at="2020-04-06T13:11:46 CEST" finished-at="2020-04-06T13:11:56 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestCases.TestCase1@776b83cc]" name="afterClass" is-config="true" duration-ms="52" started-at="2020-04-06T13:11:56 CEST" finished-at="2020-04-06T13:11:56 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestCases.TestCase1 -->
+      <class name="TestCases.TestCase2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestCases.TestCase2@37858383]" name="beforeClass" is-config="true" duration-ms="29841" started-at="2020-04-06T13:11:56 CEST" finished-at="2020-04-06T13:12:26 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:TestCases.TestCase2@37858383]" name="tc2" duration-ms="6073" started-at="2020-04-06T13:12:26 CEST" finished-at="2020-04-06T13:12:32 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestCases.TestCase2@37858383]" name="afterClass" is-config="true" duration-ms="51" started-at="2020-04-06T13:12:32 CEST" finished-at="2020-04-06T13:12:32 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestCases.TestCase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

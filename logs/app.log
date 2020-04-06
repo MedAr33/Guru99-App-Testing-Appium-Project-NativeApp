@@ -1,0 +1,36 @@
+13:11:48.372 INFO  TestAnnotation -Application name exist
+13:11:49.048 INFO  TestAnnotation -course category is displayed
+13:11:49.624 INFO  TestAnnotation -course category is clickable
+13:11:50.247 INFO  TestAnnotation -course category is selected
+13:11:50.885 INFO  TestAnnotation -course list is displayed
+13:11:51.386 INFO  TestAnnotation -course list is clickable
+13:11:51.784 INFO  TestAnnotation -course list is not selected
+13:11:52.173 INFO  TestAnnotation -course category list is displayed with 7 items
+13:11:56.195 INFO  TestAnnotation -test succeed 
+
+13:12:27.891 INFO  TestAnnotation -SAP clicked
+13:12:32.513 INFO  TestAnnotation -Test succeed : SAP course list is here with 11 parts 
+
+13:13:00.453 INFO  TestAnnotation -Quiz clicked
+13:13:03.632 INFO  TestAnnotation -Quality Center clicked
+13:13:05.716 INFO  TestAnnotation -Response 'No' clicked
+13:13:06.647 INFO  TestAnnotation -Next clicked
+13:13:07.676 INFO  TestAnnotation -Response '4' clicked
+13:13:08.639 INFO  TestAnnotation -Finish clicked
+13:13:10.424 INFO  TestAnnotation -Test succeed : score is displayed 
+
+13:13:38.212 INFO  TestAnnotation -Interview is clicked
+13:13:41.103 INFO  TestAnnotation -JAVA is clicked
+13:13:42.625 INFO  TestAnnotation -Struts is clicked
+13:13:45.229 INFO  TestAnnotation -Show answer button is clicked
+13:13:45.964 INFO  TestAnnotation -Next button is clicked
+13:13:46.661 INFO  TestAnnotation -Test succeed 
+
+13:14:13.714 INFO  TestAnnotation -Course list clicked
+13:14:19.788 INFO  TestAnnotation -Scrolling to PHP
+13:14:20.571 INFO  TestAnnotation -PHP clicked
+13:14:23.883 INFO  TestAnnotation -Lesson 1 title and lesson 2 title are checked
+13:14:24.455 INFO  TestAnnotation -Lesson 1 clicked
+13:14:27.129 INFO  TestAnnotation -Next clicked
+13:14:27.130 INFO  TestAnnotation -Test succeed 
+
